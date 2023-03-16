@@ -1,6 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Simple Weather CLI
+Description: This mini project involves building a simple command-line interface (CLI) application in Rust that fetches weather data from a public API, parses the JSON response, and displays the weather information in a user-friendly format.
 
-## References
+Requirements:
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Rust installed on your computer (https://www.rust-lang.org/tools/install)
+A text editor or IDE for Rust (e.g., Visual Studio Code with the Rust extension)
+An API key for OpenWeatherMap (https://openweathermap.org/appid)
